@@ -1,0 +1,15 @@
+/Users/keithsiilats/Documents/GitHub/cognito_sample/src/main/java/com/example/cognito/DeleteUserPool.java
+/Users/keithsiilats/Documents/GitHub/cognito_sample/src/main/java/com/example/cognito/GetId.java
+/Users/keithsiilats/Documents/GitHub/cognito_sample/src/main/java/com/example/cognito/CreateIdentityPool.java
+/Users/keithsiilats/Documents/GitHub/cognito_sample/src/main/java/com/example/cognito/ListIdentityPools.java
+/Users/keithsiilats/Documents/GitHub/cognito_sample/src/main/java/com/example/cognito/CreateUserPool.java
+/Users/keithsiilats/Documents/GitHub/cognito_sample/src/main/java/com/example/cognito/ListIdentities.java
+/Users/keithsiilats/Documents/GitHub/cognito_sample/src/main/java/com/example/cognito/GetIdentityCredentials.java
+/Users/keithsiilats/Documents/GitHub/cognito_sample/src/main/java/com/example/cognito/AddLoginProvider.java
+/Users/keithsiilats/Documents/GitHub/cognito_sample/src/main/java/com/example/cognito/SignUpUser.java
+/Users/keithsiilats/Documents/GitHub/cognito_sample/src/main/java/com/example/cognito/DeleteIdentityPool.java
+/Users/keithsiilats/Documents/GitHub/cognito_sample/src/main/java/com/example/cognito/ListUserPoolClients.java
+/Users/keithsiilats/Documents/GitHub/cognito_sample/src/main/java/com/example/cognito/CreateUser.java
+/Users/keithsiilats/Documents/GitHub/cognito_sample/src/main/java/com/example/cognito/ListUserPools.java
+/Users/keithsiilats/Documents/GitHub/cognito_sample/src/main/java/com/example/cognito/CreateUserPoolClient.java
+/Users/keithsiilats/Documents/GitHub/cognito_sample/src/main/java/com/example/cognito/ListUsers.java
