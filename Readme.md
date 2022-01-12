@@ -1,3 +1,6 @@
+# keith
+This is relevant samples from aws java v2 sdk. There is cognito sample in root, ses sample in ses folder and two walk throuhgs in its own folders
+
 # Amazon Cognito Java code examples
 
 This README discusses how to run and test the Java code examples for Amazon Cognito.
